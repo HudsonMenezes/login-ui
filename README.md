@@ -1,4 +1,6 @@
-# Reanimated example
+# Tela de Login e Cadastro Animadas - React Native
+
+![Tela de Login](image.png) ![Tela de Cadastro](image-1.png)
 
 <p>
   <!-- iOS -->
